@@ -1,50 +1,50 @@
 1. What is the capital of France?
-    A) Berlin
-    B) Madrid
-    C) Paris
-    D) Rome
+    Berlin
+    Madrid
+    Paris
+    Rome
 2. Which planet is known as the "Red Planet"?
-    A) Venus
-    B) Mars
-    C) Jupiter
-    D) Saturn
+    Venus
+    Mars
+    Jupiter
+    Saturn
 3. What is the chemical symbol for water?
-    A) O2
-    B) CO2
-    C) H2O
-    D) NaCl
+    O2
+    CO2
+    H2O
+    NaCl
 4. Who wrote the play Romeo and Juliet?
-    A) William Shakespeare
-    B) Charles Dickens
-    C) Mark Twain
-    D) Jane Austen
+    William Shakespeare
+    Charles Dickens
+    Mark Twain
+    Jane Austen
 5. Which of these is the largest animal on Earth?
-    A) African Elephant
-    B) Blue Whale
-    C) Great White Shark
-    D) Giant Squid
+    African Elephant
+    Blue Whale
+    Great White Shark
+    Giant Squid
 6. In which year did World War II end?
-    A) 1942
-    B) 1945
-    C) 1950
-    D) 1955
+    1942
+    1945
+    1950
+    1955
 7. What is the most abundant gas in Earth's atmosphere?
-    A) Oxygen
-    B) Nitrogen
-    C) Carbon Dioxide
-    D) Hydrogen
+    Oxygen
+    Nitrogen
+    Carbon Dioxide
+    Hydrogen
 8. Which organ in the human body is primarily responsible for filtering blood?
-    A) Heart
-    B) Liver
-    C) Kidneys
-    D) Lungs
+    Heart
+    Liver
+    Kidneys
+    Lungs
 9. Who is the author of the Harry Potter series?
-    A) J.R.R. Tolkien
-    B) J.K. Rowling
-    C) C.S. Lewis
-    D) George R.R. Martin
+    J.R.R. Tolkien
+    J.K. Rowling
+    C.S. Lewis
+    George R.R. Martin
 10. What is the powerhouse of the cell?
-    A) Nucleus
-    B) Ribosome
-    C) Mitochondria
-    D) Golgi Apparatus
+    Nucleus
+    Ribosome
+    Mitochondria
+    Golgi Apparatus
