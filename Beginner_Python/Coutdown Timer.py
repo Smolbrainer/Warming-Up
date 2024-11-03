@@ -18,7 +18,7 @@ def start():
         start()
 
 def countdown():
-    countdown = abs(int(input("What number r u counting down from in second? "))) #Abs() is absolute value to make sure its positive
+    countdown = abs(int(input("What number are you counting down from in second? "))) #Abs() is absolute value to make sure its positive
     for i in range((countdown)+1):
         print(f"\r{countdown}       ", end='') #the extra spaces makes sure to replace the 0 cause going from 10 to 9 makes it 90 since \r just overwrites
         countdown -=1
