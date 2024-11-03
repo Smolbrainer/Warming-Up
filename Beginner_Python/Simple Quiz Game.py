@@ -1,3 +1,5 @@
+# User has to follow the exact format of the sample quiz game files that were provided.
+
 import re
 
 def getChoices(questionFile):
